@@ -11,6 +11,8 @@ console.log(secondName);
 const preferColor = prompt("Qual'è il tuo colore preferito?");
 console.log(preferColor);
 //Creo una const con la somma delle 3 costanti + il numero 21
+const finalPsw = firstName + secondName + preferColor + "21";
+console.log(finalPsw);
 //Stampo in pagina la pass Generata
 
 
