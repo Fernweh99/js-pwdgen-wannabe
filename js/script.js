@@ -8,9 +8,11 @@ console.log(firstName);
 const secondName = prompt("Qual'è il tuo cognome?");
 console.log(secondName);
 //Chiedo all'utente il suo colore preferito (creo una const)
-
-//Creo una const con la somma delle 3 costanti
+const preferColor = prompt("Qual'è il tuo colore preferito?");
+console.log(preferColor);
+//Creo una const con la somma delle 3 costanti + il numero 21
 //Stampo in pagina la pass Generata
+
 
 
 
