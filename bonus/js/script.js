@@ -19,7 +19,7 @@ const finalPsw = firstName + secondName + preferColor + "21";
 console.log(finalPsw);
 
 //Stampo in pagina la pass Generata
-pswGen.innerText = "la tua password è: " + finalPsw ; 
+pswGen.innerHTML = "la tua password è: <strong>" + finalPsw + "</strong>" ; 
 
 
 
